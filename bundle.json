@@ -1,0 +1,23 @@
+{
+    "id": "da23f85a-cf33-4f7a-849e-85c79d249a21",
+    "author": "",
+    "widgets": [
+        {
+            "id": "madinah_explorer_extra",
+            "name": "madinah_explorer_extra",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[],
+            "category":""
+        }
+    ],
+    "sidebarLinks": [
+        
+    ],
+    "uis": [
+       
+    ],
+    "menuItems": [
+        
+    ]
+}

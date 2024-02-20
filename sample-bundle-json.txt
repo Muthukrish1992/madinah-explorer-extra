@@ -1,0 +1,38 @@
+{
+    "id": "3887802f-2610-4397-e50f-6b2ba0aeef17",
+    "author": "",
+    "widgets": [
+        {
+            "id": "madinah_explorer_extra",
+            "name": "madinah_explorer_extra",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+            "category":""
+        }
+    ],
+    "sidebarLinks": [
+        {
+            "id": "madinah_explorer_extraLink",
+            "label": "",
+            "description": "",
+            "target": "",
+            "icon": "",
+            "roles":[]
+        }
+    ],
+    "uis": [
+        {
+            "id": "madinah_explorer_extraLink",
+            "label":"",
+            "description": "",
+            "roles": []
+        }
+    ],
+    "menuItems": [
+        {
+            "id": "madinah_explorer_extraLink",
+            "title": "madinah_explorer_extra"
+        }
+    ]
+}
